@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: "知识库",
   description: "知识库",
+  base: "/knowledge/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
