@@ -1,0 +1,28 @@
+{
+  "name": "knowledge",
+  "version": "1.0.0",
+  "description": "知识库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hefengbao/knowledge.git"
+  },
+  "keywords": [
+    "知识库"
+  ],
+  "author": "hefengbao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hefengbao/knowledge/issues"
+  },
+  "homepage": "https://github.com/hefengbao/knowledge#readme",
+  "devDependencies": {
+    "vitepress": "^1.2.0"
+  }
+}

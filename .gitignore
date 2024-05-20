@@ -1,0 +1,4 @@
+node_modules/
+./docs/.virepress/cache/
+./docs/.virepress/dist/
+.obsidian/
