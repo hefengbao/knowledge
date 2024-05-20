@@ -148,7 +148,7 @@ export default defineConfig({
     lastUpdated: {
       text: '更新时间：',
       formatOptions: {
-        dateStyle: 'full',
+        dateStyle: 'short',
         timeStyle: 'medium'
       }
     },
