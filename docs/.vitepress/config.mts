@@ -32,7 +32,7 @@ export default defineConfig({
               items: [
                 { text: '老挝', link: '/world/asia/Lao' },
                 { text: '柬埔寨', link: '/world/asia/Cambodia' },
-                { text: '泰国', link: '/world/asia/Tailand' },
+                { text: '泰国', link: '/world/asia/Thailand' },
                 { text: '缅甸', link: '/world/asia/Myanmar' },
                 { text: '马来西亚', link: '/world/asia/Malaysia' },
                 { text: '新加坡', link: '/world/asia/Singapore' },

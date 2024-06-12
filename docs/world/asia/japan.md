@@ -1,4 +1,4 @@
-# 日本国
+# 日本国（Japan）
 
 [百度百科](https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC/111617)
 

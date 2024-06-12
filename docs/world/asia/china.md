@@ -1,4 +1,4 @@
-# 中华人民共和国
+# 中华人民共和国（The People's Republic of China）
 
 [百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD/106554)
 

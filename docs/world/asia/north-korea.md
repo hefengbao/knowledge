@@ -1,4 +1,4 @@
-# 朝鲜民主主义人民共和国
+# 朝鲜民主主义人民共和国（Democratic People's Republic of Korea）
 
 [百度百科](https://baike.baidu.com/item/%E6%9C%9D%E9%B2%9C/191777)
 
