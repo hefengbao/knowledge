@@ -10,7 +10,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '看世界', link: '/world/', activeMatch: '/world/*', }
+      { text: '看世界', link: '/world/', activeMatch: '/world/*', },
+      { text: '心理学', link: '/psychology/', activeMatch: '/psychology/*', },
+      { text: '哲学', link: '/philosophy/', activeMatch: '/philosophy/*', },
+      { text: '生活', link: '/life/', activeMatch: '/life/*', },
     ],
     sidebar: {
       '/world/': [
@@ -325,6 +328,15 @@ export default defineConfig({
             { text: '纽埃', link: '/world/oceania/Niue' },
           ]
         },
+      ],
+      'philosophy': [
+
+      ],
+      'psychology': [
+
+      ],
+      'life': [
+
       ],
     },
     socialLinks: [
