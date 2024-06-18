@@ -13,7 +13,14 @@ export default defineConfig({
       { text: '看世界', link: '/world/', activeMatch: '/world/*', },
       { text: '心理学', link: '/psychology/', activeMatch: '/psychology/*', },
       { text: '哲学', link: '/philosophy/', activeMatch: '/philosophy/*', },
-      { text: '生活', link: '/life/', activeMatch: '/life/*', },
+      {
+        text: '生活',
+        activeMatch: '/life/*',
+        items: [
+          { text: '家庭', link: '/life/family/',activeMatch: '/life/family/*', },
+          { text: '饮食', link: '/life/diet/',activeMatch: '/life/diet/*', },
+        ]
+      }
     ],
     sidebar: {
       '/world/': [
@@ -335,9 +342,34 @@ export default defineConfig({
       'psychology': [
 
       ],
-      'life': [
-
+      'life/family': [
+        {
+          text: '孩子',
+          items: [
+            { text: '护理', link: '/life/family/kid/index' },
+          ]
+        },
+        {
+          text: '健康 & 医疗',
+          items: [
+            { text: '中暑', link: '/life/health/heatstroke' },
+          ]
+        },
       ],
+      'life/diet': [
+        {
+          text: '食物',
+          items: [
+            { text: 'Index', link: '/life/diet/food/index' },
+          ]
+        },
+        {
+          text: '饮料',
+          items: [
+            { text: '茶', link: '/life/diet/beberage/tea' },
+          ]
+        },
+      ]
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hefengbao' }
