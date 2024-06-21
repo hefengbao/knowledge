@@ -19,6 +19,7 @@ export default defineConfig({
         items: [
           { text: '家庭', link: '/life/family/',activeMatch: '/life/family/*', },
           { text: '饮食', link: '/life/diet/',activeMatch: '/life/diet/*', },
+          { text: '健康 & 医疗', link: '/life/health/',activeMatch: '/life/health/*', },
         ]
       }
     ],
@@ -350,6 +351,8 @@ export default defineConfig({
             { text: '性教育', link: '/life/family/kid/sex-education' },
           ]
         },
+      ],
+      'life/health': [
         {
           text: '健康 & 医疗',
           items: [
