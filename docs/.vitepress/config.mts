@@ -346,13 +346,17 @@ export default defineConfig({
         {
           text: '孩子',
           items: [
-            { text: '护理', link: '/life/family/kid/index' },
+            { text: '照护', link: '/life/family/kid/care' },
+            { text: '性教育', link: '/life/family/kid/sex-education' },
           ]
         },
         {
           text: '健康 & 医疗',
           items: [
-            { text: '中暑', link: '/life/health/heatstroke' },
+            { text: '常见防护', link: '/life/health/common-protection' },
+            { text: '医疗', link: '/life/health/medical-treatment' },
+            { text: '体检', link: '/life/health/examination' },
+            { text: '健身', link: '/life/health/fitness' },
           ]
         },
       ],
@@ -366,7 +370,7 @@ export default defineConfig({
         {
           text: '饮料',
           items: [
-            { text: '茶', link: '/life/diet/beberage/tea' },
+            { text: '茶', link: '/life/diet/beverage/tea' },
           ]
         },
       ]
