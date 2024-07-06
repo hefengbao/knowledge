@@ -10,7 +10,13 @@
 
 [透视“全球南方”](https://mp.weixin.qq.com/s/_Iqmi2nmMxbPhWCul7BVNg)
 
+[“全球南方”研究中心](https://weibo.com/2656274875/Ol3RbhiZt)
+
 ### 七国集团（G7）
+
+### 上海合作组织
+
+[🔗](https://weibo.com/1699432410/Olxpbm11B)
 
 ### 五眼联盟
 

@@ -4,3 +4,6 @@
 
 
 [经济溃败，政坛地震，越南生死一线背后的历史脉络](https://b23.tv/spVGNGn)
+
+
+![西贡铁拳](/world/Vietnam/西贡铁拳.jpg)
