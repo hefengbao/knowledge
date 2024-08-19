@@ -19,6 +19,15 @@ export default defineConfig({
         items: [
           { text: '家庭', link: '/life/family/',activeMatch: '/life/family/*', },
           { text: '饮食', link: '/life/diet/',activeMatch: '/life/diet/*', },
+          { 
+            text: '穿搭', 
+            activeMatch: '/life/dress/*', 
+            items: [
+              { text: '衣服', link: '/life/dress/clothes/',activeMatch: '/life/dress/clothes/*', },
+              { text: '配饰', link: '/life/dress/accessories/',activeMatch: '/life/dress/accessories/*', },
+              { text: '鞋子', link: '/life/dress/shoes/',activeMatch: '/life/dress/shoes/*', },
+            ]
+          },
           { text: '健康 & 医疗', link: '/life/health/',activeMatch: '/life/health/*', },
         ]
       }
@@ -342,6 +351,50 @@ export default defineConfig({
       ],
       'psychology': [
 
+      ],
+      'life/dress/clothes': [
+        {
+          text: '上衣',
+          items: [
+            { text: '西装', link: '/life/dress/clothes/Tops/Suit' },
+            { text: '夹克', link: '/life/dress/clothes/Tops/Jacket' },
+            { text: '帽衫', link: '/life/dress/clothes/Tops/Hoodie' },
+            { text: '衬衫', link: '/life/dress/clothes/Tops/Shirt' },
+            { text: '毛衣', link: '/life/dress/clothes/Tops/Sweater' },
+            { text: 'T 恤', link: '/life/dress/clothes/Tops/T-shirt' },
+          ]
+        },
+        {
+          text: '裤子',
+          items: [
+            { text: '牛仔裤', link: '/life/dress/clothes/Bottoms/Jeans' },
+            { text: '短裤', link: '/life/dress/clothes/Bottoms/Shorts' },
+          ]
+        },
+        {
+          text: '内衣',
+          items: [
+            { text: '内衣', link: '/life/dress/clothes/Underwear/Underwear' },
+            { text: '汗衫', link: '/life/dress/clothes/Underwear/Undershirt' },
+            { text: '内裤', link: '/life/dress/clothes/Underwear/Panties' },
+          ]
+        },
+      ],
+      'life/dress/accessories': [
+        {
+          text: '配饰',
+          items: [
+            { text: '腕表', link: '/life/dress/accessories/WristWatch' },
+            { text: '包', link: '/life/dress/accessories/Bag' },
+            { text: '帽子', link: '/life/dress/accessories/Hat' },
+            { text: '腰带', link: '/life/dress/accessories/Belt' },
+            { text: '领带', link: '/life/dress/accessories/Tie' },
+            { text: '围巾', link: '/life/dress/accessories/Scarf' },
+            { text: '手套', link: '/life/dress/accessories/Gloves' },
+            { text: '袜子', link: '/life/dress/accessories/Socks' },
+            { text: '首饰', link: '/life/dress/accessories/Jewelry' },
+          ]
+        },
       ],
       'life/family': [
         {
