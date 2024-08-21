@@ -14,6 +14,14 @@ export default defineConfig({
       { text: '心理学', link: '/psychology/', activeMatch: '/psychology/*', },
       { text: '哲学', link: '/philosophy/', activeMatch: '/philosophy/*', },
       {
+        text: '语言',
+        activeMatch: '/language/*',
+        items: [
+          { text: '汉语', link: '/language/chinese/',activeMatch: '/language/chinese/*', },
+          { text: '英语', link: '/language/english/',activeMatch: '/language/english/*', },
+        ]
+      },
+      {
         text: '生活',
         activeMatch: '/life/*',
         items: [
@@ -429,6 +437,16 @@ export default defineConfig({
             { text: '茶', link: '/life/diet/beverage/tea' },
           ]
         },
+      ],
+      'language/english': [
+        {
+          text: '英语',
+          items: [
+            { text: '开篇', link: '/language/english/index' },
+            { text: '语法', link: '/language/english/grammar' },
+            { text: '会话', link: '/language/english/conversations' },
+          ]
+        }
       ]
     },
     socialLinks: [
