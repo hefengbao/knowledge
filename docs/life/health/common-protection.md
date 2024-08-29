@@ -11,20 +11,20 @@
 
 ## 心梗
 
-![](/life/health/xingeng1.jpg)
+![](/src/xingeng1.jpg)
 
-![](/life/health/xingeng2.jpg)
+![](/src/xingeng2.jpg)
 
-![](/life/health/xingeng3.jpg)
+![](/src/xingeng3.jpg)
 
-![](/life/health/xingeng4.jpg)
+![](/src/xingeng4.jpg)
 
-![](/life/health/xingeng5.jpg)
+![](/src/xingeng5.jpg)
 
-![](/life/health/xingeng6.jpg)
+![](/src/xingeng6.jpg)
 
-![](/life/health/xingeng7.jpg)
+![](/src/xingeng7.jpg)
 
-![](/life/health/xingeng8.jpg)
+![](/src/xingeng8.jpg)
 
 [🔗](https://weibo.com/1774057271/NwmP4wxwj)
