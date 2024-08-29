@@ -25,6 +25,7 @@ export default defineConfig({
         text: '生活',
         activeMatch: '/life/*',
         items: [
+          { text: '日常', link: '/life/daily/',activeMatch: '/life/daily/*', },
           { text: '家庭', link: '/life/family/',activeMatch: '/life/family/*', },
           { text: '饮食', link: '/life/diet/',activeMatch: '/life/diet/*', },
           { 
@@ -401,6 +402,15 @@ export default defineConfig({
             { text: '手套', link: '/life/dress/accessories/Gloves' },
             { text: '袜子', link: '/life/dress/accessories/Socks' },
             { text: '首饰', link: '/life/dress/accessories/Jewelry' },
+          ]
+        },
+      ],
+      'life/daily': [
+        {
+          text: '日常',
+          items: [
+            { text: '开篇', link: '/life/daily/index' },
+            { text: '交通', link: '/life/daily/traffic' },
           ]
         },
       ],
