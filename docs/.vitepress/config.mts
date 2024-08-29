@@ -44,6 +44,9 @@ export default defineConfig({
     sidebar: {
       '/world/': [
         {
+           text: '开篇', link: '/world/index'
+        },
+        {
           text: '亚洲',
           items: [
             {
@@ -356,18 +359,14 @@ export default defineConfig({
         },
       ],
       'philosophy': [
-
+        { text: '开篇', link: '/philosophy/index'},
       ],
       'psychology': [
-
+        { text: '开篇', link: '/psychology/index'},
       ],
       'life/dress/clothes': [
-        {
-          items: [
-            { text: '开篇', link: '/life/dress/colthes/index'}
-            { text: '面料', link: '/life/dress/colthes/fabric'}
-          ]
-        },
+        { text: '开篇', link: '/life/dress/colthes/index'},
+        { text: '面料', link: '/life/dress/colthes/fabric'},
         {
           text: '上衣',
           items: [
@@ -396,6 +395,7 @@ export default defineConfig({
         },
       ],
       'life/dress/accessories': [
+        { text: '开篇', link: '/life/dress/accessories/index'},
         {
           text: '配饰',
           items: [
@@ -411,16 +411,20 @@ export default defineConfig({
           ]
         },
       ],
+      'life/dress/shoes': [
+        { text: '开篇', link: '/life/dress/shoes/index'},
+      ],
       'life/daily': [
+        { text: '开篇', link: '/life/daily/index' },
         {
           text: '日常',
           items: [
-            { text: '开篇', link: '/life/daily/index' },
             { text: '交通', link: '/life/daily/traffic' },
           ]
         },
       ],
       'life/family': [
+        { text: '开篇', link: '/life/family/index' },
         {
           text: '孩子',
           items: [
@@ -430,6 +434,7 @@ export default defineConfig({
         },
       ],
       'life/health': [
+        { text: '开篇', link: '/life/health/index' },
         {
           text: '健康 & 医疗',
           items: [
@@ -441,6 +446,7 @@ export default defineConfig({
         },
       ],
       'life/diet': [
+        { text: '开篇', link: '/life/daily/index' },
         {
           text: '食物',
           items: [
@@ -455,14 +461,17 @@ export default defineConfig({
         },
       ],
       'language/english': [
+        { text: '开篇', link: '/language/english/index' },
         {
           text: '英语',
           items: [
-            { text: '开篇', link: '/language/english/index' },
             { text: '语法', link: '/language/english/grammar' },
             { text: '会话', link: '/language/english/conversations' },
           ]
         }
+      ],
+      'language/chinese': [
+        { text: '开篇', link: '/language/chinese/index' },
       ]
     },
     socialLinks: [
