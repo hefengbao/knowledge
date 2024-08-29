@@ -363,6 +363,12 @@ export default defineConfig({
       ],
       'life/dress/clothes': [
         {
+          items: [
+            { text: '开篇', link: '/life/dress/colthes/index'}
+            { text: '面料', link: '/life/dress/colthes/fabric'}
+          ]
+        },
+        {
           text: '上衣',
           items: [
             { text: '西装', link: '/life/dress/clothes/Tops/Suit' },
