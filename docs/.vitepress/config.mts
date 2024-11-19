@@ -6,6 +6,7 @@ export default defineConfig({
   title: "知识库",
   description: "归纳总结零零散散学习的知识，构建知识体系。",
   base: "/knowledge/",
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
