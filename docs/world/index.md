@@ -14,7 +14,7 @@
 
 ### 二十国集团（G20）
 
-由[中国](asia/china)、[阿根廷](south-america/Argentina)、[澳大利亚](oceania/Australia)、[巴西](south-america/Brazil)、[加拿大](north-america/Canada)、[法国](europ/French)、[德国](europ/Germany)、[印度](asia/India)、[印度尼西亚](asia/Indonesia)、[意大利](europ/Italy)、[日本](asia/Japan)、[韩国](asia/South-Korea)、[墨西哥](north-america/Mexica)、[俄罗斯](europ/Russia)、[沙特阿拉伯](asia/Saudi-Arabia)、[南非共和国](africa/South-Africa)、[土耳其](asia/Turkey)、[英国](europ/UK)、[美国](north-america/USA)以及欧洲联盟等二十方组成的国际经济合作主要论坛。[🔗](https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E5%9B%BD%E9%9B%86%E5%9B%A2/4464059)
+由[中国](asia/China)、[阿根廷](south-america/Argentina)、[澳大利亚](oceania/Australia)、[巴西](south-america/Brazil)、[加拿大](north-america/Canada)、[法国](europ/French)、[德国](europ/Germany)、[印度](asia/India)、[印度尼西亚](asia/Indonesia)、[意大利](europ/Italy)、[日本](asia/Japan)、[韩国](asia/South-Korea)、[墨西哥](north-america/Mexica)、[俄罗斯](europ/Russia)、[沙特阿拉伯](asia/Saudi-Arabia)、[南非共和国](africa/South-Africa)、[土耳其](asia/Turkey)、[英国](europ/UK)、[美国](north-america/USA)以及欧洲联盟等二十方组成的国际经济合作主要论坛。[🔗](https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E5%9B%BD%E9%9B%86%E5%9B%A2/4464059)
 
 ### 上海合作组织
 
