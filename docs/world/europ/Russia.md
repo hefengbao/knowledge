@@ -2,6 +2,10 @@
 
 [百度百科](https://baike.baidu.com/item/%E4%BF%84%E7%BD%97%E6%96%AF/125568)
 
+## 国际组织（会议）
+
+[二十国集团（G20）](../#二十国集团-g20)
+
 
 [施越：俄罗斯帝国的边疆治理——以中亚地区为例 | 俄罗斯研究专题系列四](https://mp.weixin.qq.com/s/N3OEKoaOq0Vk3tJ5xemobw)
 
