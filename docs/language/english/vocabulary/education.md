@@ -92,3 +92,10 @@ secondary school 中学
 high school, secondary school 专科学校
 university 大学
 boarding school 供膳宿的学校.
+day school 日校，无宿舍学校，走读学校
+day student who has lunch at school  提供午餐的走读学生
+academy 专科学校
+faculty 系
+hall of residence  学校公寓
+classroom 教室
+lecture theatre 阅览室（美：theater）
