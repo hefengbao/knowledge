@@ -98,4 +98,41 @@ academy 专科学校
 faculty 系
 hall of residence  学校公寓
 classroom 教室
-lecture theatre 阅览室（美：theater）
+lecture theatre 阅览室（美：lecture theater）
+amphitheatre 阶梯教室（美：amphitheater）
+staff room 教研室
+headmaster's study; headmaster's office 校长办公室
+（assembly）hall 礼堂
+library 图书馆
+playground 操场
+desk 课桌
+blackboard 黑板
+（a piece of）chalk 粉笔
+slate pencil 石笔又称滑石笔
+wall map 挂图
+skeleton map 轮廓图、示意图
+globe 地球仪
+text book 课本
+dictionary 词典
+encyclopedia 百科全书  
+atlas 地图集  
+satchel 书包  
+exercise book 练习本  
+rough not book 草稿本(美作:scribbling pad)  
+blotting paper 吸墨纸  
+tracing paper 描图纸  
+squared paper, graph paper 坐标纸  
+(fountain) pen 自来水笔  
+biro, ballpoint (pen) 圆珠笔  
+pencil 铅笔  
+propelling pencil 自动铅笔  
+pencil sharpener 铅笔刀，转笔刀  
+ink 墨水  
+inkwell 墨水池  
+rubber, eraser 橡皮
+ruler, rule 尺  
+slide rule 计算尺  
+set square 三角板;  
+protractor 量角器  
+compass, pair of compasses 圆规
+
