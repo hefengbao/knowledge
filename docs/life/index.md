@@ -5,4 +5,3 @@
 
 [最全成都温江区便民服务中心办事攻略→](https://mp.weixin.qq.com/s/Fokg7yTQ8H_FDUwFjOf1fw)
 
-![](./src/mmexport1733798876020.jpg)

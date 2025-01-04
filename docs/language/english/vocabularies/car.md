@@ -98,42 +98,68 @@ to accelerate 加速
 to brake 制动，刹车
 to engage the clutch 接上离合器
 to declutch 分开离合器
-i Couw
-分类词汇:汽车英语
-to stall
-发动机停转
-to change gear
-变速
-to start up
-起动
-to put one's foot down加速,踏 下加速踏板(美作:to
-step on the gas)
-to overtake
-向前行驶
-to decelerate减速
-top speed
-最高速度
-speed limit
-速度限制
-to park
-停车
-car park停车场(美作parking lot)
-to switch off the motor熄火
-motorway
-高速公路(美
-作:freeway,superhighway)
-toll road收费公路 (美作:turnpike)
-traffic jam
-路障
-insulating tape
-绝缘胶带
-jack千斤顶
-can, jerrican油桶
-fuel燃油
-petrol
-汽油(美作:gas)
-oil油料
-CI
-@VOA英文口语)
-6 @VOA英文回播
+to stall 发动机停转
+to change gear 变速
+to start up 起动
+to put one's foot down 加速,踏下加速踏板(美作:tostep on the gas)
+to overtake 向前行驶
+to decelerate 减速
+top speed 最高速度
+speed limit 速度限制
+to park 停车
+car park 停车场(美作parking lot)
+to switch off the motor 熄火
+motorway 高速公路(美作:freeway,superhighway)
+toll road 收费公路 (美作:turnpike)
+traffic jam 路障
+insulating tape 绝缘胶带
+jack 千斤顶
+can, jerrican 油桶
+fuel 燃油
+petrol 汽油(美作:gas)
+oil 油料
+lubrication, oiling 润滑油
+antifreeze 防冻液
+cooling water 冷却水
+antiskid 防滑装置
+tyre chain 防滑链(美作:tire chain)
+toolbox, tool kit 工具箱
+crank 摇把
+breakdown lorry, breakdown van救援车辆 (美作:tow car,tow truck)
+spare parts, spares 备件
+dipstick 油尺
+oil change 换油
+to vulcanize 硫化
+to inflate 充气
+tyre pressure 轮胎气压(美作:tire pressure)
+to fill the tank 加油
+petrol pump 加油泵 (美作:gasoline pump)
+pump, air pump 气泵
+to adjust 整修
+to charge a battery, to recharge a battery 给蓄电池充电
+to decoke 脱硫(美作:to decarbonize)
+breakdown 故障
+mechanical failure 机械故障
+repair shop 维修车间
+to seize up 运转不畅
+accident 事故
+puncture, blowout 碰撞
+patch 修补
+to skid 打滑
+to knock 发出撞击声
+to tow, to take in tow 拖,拖曳
+accident insurance 事故保险
+insurance against theft 防盗保险
+fully comprehensive insurance 全险
+third-party insurance 第三方保险
+electrical system, wiring 电气系统
+lights 灯光
+headlight 大灯,头灯
+dipped headlight 近光灯
+rear lights 尾灯
+sidelights, parking lights 位置灯,边灯
+direction indicator 方向标， 转向标
+indicator, blinker 方向指示灯
+sparking plug 火花塞(美作:spark plug)
+(spare) battery (备用)蓄电池
 
