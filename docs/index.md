@@ -7,7 +7,7 @@ hero:
   text: "书山有路勤为径，学海无涯苦作舟。"
   tagline: 归纳总结学习过的零零散散的知识，构建知识体系。
   image:
-    src: ./src/NowInLife.jpg
+    src: ./NowInLife.jpg
     alt: NowInLife
   actions:
     - theme: brand
