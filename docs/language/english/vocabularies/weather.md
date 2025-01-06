@@ -78,4 +78,4 @@ Heavy Rain=大雨
 Heavy Rain Icy=大冰雨  
 Heavy Snow=大雪  
 Heavy T-Storm=强烈雷雨  
-Isolated T-Storms=局部雷雨
+Isolated T-Storms=局部雷雨  

@@ -44,8 +44,8 @@ export default defineConfig({
           { text: '健康 & 医疗', link: '/life/health/',activeMatch: '/life/health/*', },
         ]
       },
-      { text: '方法论', link: '/methodology/*' },
-      { text: 'Quote', link: '/quote' },
+      { text: '方法论', link: '/methodology', activeMatch: '/methodology/*' },
+      { text: 'Quote', link: '/quote', activeMatch: '/quote/*'  },
     ],
     sidebar: {
       '/world/': [
@@ -369,7 +369,7 @@ export default defineConfig({
         { 
           text: '中国',
           items: [
-            { text: '王阳明', link: '/geography/china/wangyangming' },
+            { text: '王阳明', link: '/philosophy/china/wangyangming' },
           ]
         }
       ],
@@ -506,7 +506,7 @@ export default defineConfig({
             { text: '经济', link: '/language/english/vocabularies/economy' },
             { text: '教育', link: '/language/english/vocabularies/education' },
             { text: '人事', link: '/language/english/vocabularies/hr' },
-            { text: '亲属关系', link: '/language/english/vocabularies/kindship' },
+            { text: '亲属关系', link: '/language/english/vocabularies/kinship' },
             { text: '影视', link: '/language/english/vocabularies/movie' },
             { text: '公共场合标识', link: '/language/english/vocabularies/public-signage' },
             { text: '时间', link: '/language/english/vocabularies/time' },

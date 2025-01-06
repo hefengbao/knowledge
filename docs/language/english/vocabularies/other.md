@@ -44,7 +44,7 @@ eg: Aging eyes bing more than crow's feet and wrinkles.  眼睛老化带来的�
 大雪Heavy Snow  
 冬至Winter Solstice  
 小寒Lesser Cold  
-大寒Greater Cold
+大寒Greater Cold   
 
 1.  Do you have a family?  你有孩子吗?  
 2.  It’s a good father that knows his son.   就算是最好的父亲，也未必了解自己的儿子。  
@@ -139,51 +139,96 @@ eg: Aging eyes bing more than crow's feet and wrinkles.  眼睛老化带来的�
 50.  Don’t you talk that way to me.   别那样跟我说话。
 
 
-busboy餐馆勤杂工(不是“公汽售票员”)
-busybody爱管闲事的人(不是“大忙人”)
-blue stocking女学者.  女子(不是“蓝色长筒袜”)
-blind date (由第三者安排)男女初次会面(不是“盲目约会”)
-capital idea好主意(不是“资本主义思想”)
-confidence man骗子(不是“信得过的人”)
+busboy餐馆勤杂工
+
+busybody爱管闲事的人
+
+blue stocking女学者.  女子
+
+blind date (由第三者安排)男女初次会面
+
+capital idea好主意
+
+confidence man骗子
+
 criminal lawyer刑事律师
-dead president美钞(不是“死了的怠统”)
-dry goods (美)纺织品; (英) 谷物(不是“干货”)
-dressing room化妝室(不是“试衣室”或“更衣室”)
-eat one's words收回前言(不是“食言”)
-English disease软骨病(不是“英国病”)
-eleventh hour 最后时刻(不是“十一点”)[At the eleventh hour是什么意思?](https://www. sohu. com/a/211592803_658585)
-familiar talk庸俗的交谈(不是“熟悉的谈话
-French chalk滑石粉(不是“法国粉笔”)
-Greek gift害人的礼物(不是“希腊礼物”)
-green hand新手(不是“缘手”)
-handwriting on the wall不详之兆(不是“大字报”)
-havea fit勃然大怒(不是“试穿”)
-have the heart to do忍心做(不是“有心做”
-heartman换心人(不是“有心人”)
-horse sense常识(不是“马的感觉”)
+
+dead president美钞
+
+dry goods (美)纺织品; (英) 谷物
+
+dressing room化妝室
+
+eat one's words收回前言
+
+English disease软骨病
+
+eleventh hour 最后时刻[At the eleventh hour是什么意思?](https://www. sohu. com/a/211592803_658585)
+
+familiar talk庸俗的交谈
+
+French chalk滑石粉
+
+Greek gift害人的礼物
+
+green hand新手
+
+handwriting on the wall不详之兆
+
+have a fit 勃然大怒
+
+have the heart to do忍心做
+
+heartman换心人
+
+horse sense常识
+
 Indian summer 愉快宁靜的晚年
-lover情人(不是“爱人”)
-mad doctor精神病科医生(不是“发疯的医生”
-personal remark人身攻击(不是“个人评论”
-pull up one's socks鼓起勇气(不是“提上袜子”)
-red tape官僚习气(不是“红色带子”)
-rest room厕所(不是“休息室”)
-sporting house妓院(不是“运动室”)
-sweet water淡水(不是“甜水”)
-service station加油站(不是“服务站”)
-Spanish athlete吹牛的人(不是“西班牙运动员”)
+
+lover情人
+
+mad doctor精神病科医生
+
+personal remark人身攻击
+
+pull up one's socks鼓起勇气
+
+red tape官僚习气
+
+rest room厕所
+
+sporting house妓院
+
+sweet water淡水
+
+service station加油站
+
+Spanish athlete 吹牛的人
+
 think a great deal of oneself 高看或看重自己
+
 white coal ( 作动力来源用的)水
-white man忠实可靠的人(不是“皮肤白的人
-pull one's leg开玩笑(不是“拉后腿”) 
-make one's hair stand on end 令人毛骨悚然(不是“令人发指”)
-What a shame! 多可惜! (不是 “多可耻”)
-You don't say! 是吗! (不是 “你别说”)
+
+white man忠实可靠的人
+
+pull one's leg开玩笑
+
+make one's hair stand on end 令人毛骨悚然
+
+What a shame! 多可惜! 
+
+You don't say! 是吗! 
+
 You can say that again! 说得好! 
-You can't be too careful in your work. 你工作越仔细越好。(不是“你工作不能太仔细”)
+
+You can't be too careful in your work. 你工作越仔细越好。
+
 It has been 4 years since I smoked. 我戒烟4年了
+
 All his friends did not turn up. 他的朋友沒全到。
+
 People will be long forgetting her. 人们在很长时间内会记住她的。
+
 It can't be less interesting.  它无聊极了. 
 
 1.  Don't take it to heart. 别往心里去!
