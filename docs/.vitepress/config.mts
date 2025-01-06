@@ -524,12 +524,12 @@ export default defineConfig({
       ],
       'language/chinese': [
         { text: '开篇', link: '/language/chinese/index' },
-      ]
-    },
-    'methodology': [
+      ],
+      'methodology': [
         { text: '开篇', link: '/methodology/index'},
         { text: '笔记', link: '/methodology/note'},
       ],
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hefengbao' }
     ],
