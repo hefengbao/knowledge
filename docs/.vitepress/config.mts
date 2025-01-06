@@ -13,6 +13,7 @@ export default defineConfig({
       { text: '看世界', link: '/world/', activeMatch: '/world/*', },
       { text: '心理学', link: '/psychology/', activeMatch: '/psychology/*', },
       { text: '哲学', link: '/philosophy/', activeMatch: '/philosophy/*', },
+      { text: '地理', link: '/geography/', activeMatch: '/geography/*', },
       {
         text: '语言',
         activeMatch: '/language/*',
@@ -28,6 +29,9 @@ export default defineConfig({
           { text: '日常', link: '/life/daily/',activeMatch: '/life/daily/*', },
           { text: '家庭', link: '/life/family/',activeMatch: '/life/family/*', },
           { text: '饮食', link: '/life/diet/',activeMatch: '/life/diet/*', },
+          { text: '娱乐', link: '/life/entertainment/',activeMatch: '/life/entertainment/*', },
+          { text: '交通出行', link: '/life/trafic/',activeMatch: '/life/trafic/*', },
+          { text: '旅行', link: '/life/travel/',activeMatch: '/life/travel/*', },
           { 
             text: '穿搭', 
             activeMatch: '/life/dress/*', 
@@ -39,7 +43,9 @@ export default defineConfig({
           },
           { text: '健康 & 医疗', link: '/life/health/',activeMatch: '/life/health/*', },
         ]
-      }
+      },
+      { text: '方法论', link: '/methodology/*' },
+      { text: 'Quote', link: '/quote' },
     ],
     sidebar: {
       '/world/': [
@@ -360,9 +366,49 @@ export default defineConfig({
       ],
       'philosophy': [
         { text: '开篇', link: '/philosophy/index'},
+        { 
+          text: '中国',
+          items: [
+            { text: '王阳明', link: '/geography/china/wangyangming' },
+          ]
+        }
       ],
       'psychology': [
         { text: '开篇', link: '/psychology/index'},
+      ],
+      'geography': [
+        { text: '开篇', link: '/geography/index'},
+        { text: '其他', link: '/geography/other'},
+        { 
+          text: '中国',
+          items: [
+            { text: '山', link: '/geography/china/mountain' },
+          ]
+        }
+      ],
+      'life/daily': [
+        { text: '开篇', link: '/life/daily/index' },
+        {
+          text: '日常',
+          items: [
+            { text: '安全', link: '/life/daily/safety' },
+          ]
+        },
+      ],
+      'life/diet': [
+        { text: '开篇', link: '/life/daily/index' },
+        {
+          text: '食物',
+          items: [
+            { text: 'Index', link: '/life/diet/food/index' },
+          ]
+        },
+        {
+          text: '饮料',
+          items: [
+            { text: '茶', link: '/life/diet/beverage/tea' },
+          ]
+        },
       ],
       'life/dress/clothes': [
         { text: '开篇', link: '/life/dress/colthes/index'},
@@ -414,14 +460,9 @@ export default defineConfig({
       'life/dress/shoes': [
         { text: '开篇', link: '/life/dress/shoes/index'},
       ],
-      'life/daily': [
-        { text: '开篇', link: '/life/daily/index' },
-        {
-          text: '日常',
-          items: [
-            { text: '交通', link: '/life/daily/traffic' },
-          ]
-        },
+      'life/entertainment': [
+        { text: '开篇', link: '/life/entertainment/index' },
+        { text: '手影', link: '/life/entertainment/hand-shadow' },
       ],
       'life/family': [
         { text: '开篇', link: '/life/family/index' },
@@ -441,32 +482,43 @@ export default defineConfig({
             { text: '常见防护', link: '/life/health/common-protection' },
             { text: '医疗', link: '/life/health/medical-treatment' },
             { text: '体检', link: '/life/health/examination' },
+            { text: '应急处理', link: '/life/health/emergency-treatment' },
+          ]
+        },
+        {
+          text: '运动',
+          items: [
             { text: '健身', link: '/life/health/fitness' },
-          ]
-        },
-      ],
-      'life/diet': [
-        { text: '开篇', link: '/life/daily/index' },
-        {
-          text: '食物',
-          items: [
-            { text: 'Index', link: '/life/diet/food/index' },
-          ]
-        },
-        {
-          text: '饮料',
-          items: [
-            { text: '茶', link: '/life/diet/beverage/tea' },
           ]
         },
       ],
       'language/english': [
         { text: '开篇', link: '/language/english/index' },
+        { text: '语法', link: '/language/english/grammar' },
         {
-          text: '英语',
+          text: '词汇',
           items: [
-            { text: '语法', link: '/language/english/grammar' },
-            { text: '会话', link: '/language/english/conversations' },
+            { text: '介词', link: '/language/english/vocabularies/preposition' },
+            { text: '冠词', link: '/language/english/vocabularies/article' },
+            { text: '不规则动词', link: '/language/english/vocabularies/irregular-verb' },
+            { text: '方位', link: '/language/english/vocabularies/direction' },
+            { text: '汽车', link: '/language/english/vocabularies/car' },
+            { text: '经济', link: '/language/english/vocabularies/economy' },
+            { text: '教育', link: '/language/english/vocabularies/education' },
+            { text: '人事', link: '/language/english/vocabularies/hr' },
+            { text: '亲属关系', link: '/language/english/vocabularies/kindship' },
+            { text: '影视', link: '/language/english/vocabularies/movie' },
+            { text: '公共场合标识', link: '/language/english/vocabularies/public-signage' },
+            { text: '时间', link: '/language/english/vocabularies/time' },
+            { text: '旅行', link: '/language/english/vocabularies/travel' },
+            { text: '天气', link: '/language/english/vocabularies/weather' },
+            { text: '其他', link: '/language/english/vocabularies/other' },
+          ]
+        },
+        {
+          text: '会话',
+          items: [
+            { text: '旅行', link: '/language/english/conversations/travel' },
           ]
         }
       ],
@@ -474,6 +526,10 @@ export default defineConfig({
         { text: '开篇', link: '/language/chinese/index' },
       ]
     },
+    'methodology': [
+        { text: '开篇', link: '/methodology/index'},
+        { text: '笔记', link: '/methodology/note'},
+      ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hefengbao' }
     ],
