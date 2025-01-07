@@ -492,6 +492,14 @@ export default defineConfig({
           ]
         },
       ],
+      'life/trafic': [
+        { text: '开篇', link: '/life/trafic/index' },
+        { text: '汽车', link: '/life/trafic/car' },
+      ],
+      'life/travel': [
+        { text: '开篇', link: '/life/travel/index' },
+        { text: '应急救护', link: '/life/travel/wilderness-survival-guide' },
+      ],
       'language/english': [
         { text: '开篇', link: '/language/english/index' },
         { text: '语法', link: '/language/english/grammar' },
@@ -528,14 +536,6 @@ export default defineConfig({
       'methodology': [
         { text: '开篇', link: '/methodology/index'},
         { text: '笔记', link: '/methodology/note'},
-      ],
-      'trafic': [
-        { text: '开篇', link: '/trafic/index' },
-        { text: '汽车', link: '/trafic/car' },
-      ],
-      'travel': [
-        { text: '开篇', link: '/travel/index' },
-        { text: '应急救护', link: '/travel/wilderness-survival-guide' },
       ],
     },
     socialLinks: [

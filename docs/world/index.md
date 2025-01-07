@@ -17,6 +17,10 @@
 
 
 
+### 金砖国家
+
+[印尼成为金砖国家正式成员](https://weibo.com/2656274875/P8qRbAqVP)
+
 ### 全球南方国家
 
 [透视“全球南方”](https://mp.weixin.qq.com/s/_Iqmi2nmMxbPhWCul7BVNg)
