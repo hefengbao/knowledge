@@ -529,6 +529,14 @@ export default defineConfig({
         { text: '开篇', link: '/methodology/index'},
         { text: '笔记', link: '/methodology/note'},
       ],
+      'trafic': [
+        { text: '开篇', link: '/trafic/index' },
+        { text: '汽车', link: '/trafic/car' },
+      ],
+      'travel': [
+        { text: '开篇', link: '/travel/index' },
+        { text: '应急救护', link: '/travel/wilderness-survival-guide' },
+      ],
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hefengbao' }
