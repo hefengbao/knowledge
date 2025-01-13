@@ -483,6 +483,7 @@ export default defineConfig({
             { text: '医疗', link: '/life/health/medical-treatment' },
             { text: '体检', link: '/life/health/examination' },
             { text: '应急处理', link: '/life/health/emergency-treatment' },
+            { text: '用药安全', link: '/life/health/medication-precautions' },
           ]
         },
         {
