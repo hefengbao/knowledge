@@ -5,3 +5,5 @@
 
 [最全成都温江区便民服务中心办事攻略→](https://mp.weixin.qq.com/s/Fokg7yTQ8H_FDUwFjOf1fw)
 
+[成都集体户“户口页借还”办理攻略→](https://mp.weixin.qq.com/s/FPYd6fOB8_DRiobtMJn38w)
+
