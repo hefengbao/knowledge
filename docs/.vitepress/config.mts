@@ -34,7 +34,6 @@ export default defineConfig({
           { text: '旅行', link: '/life/travel/',activeMatch: '/life/travel/*', },
           { 
             text: '穿搭', 
-            activeMatch: '/life/dress/*', 
             items: [
               { text: '衣服', link: '/life/dress/clothes/',activeMatch: '/life/dress/clothes/*', },
               { text: '配饰', link: '/life/dress/accessories/',activeMatch: '/life/dress/accessories/*', },
@@ -542,10 +541,14 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hefengbao' }
     ],
+    outline: {
+      level: [2,3],
+      label: '页面导航'
+    },
     lastUpdated: {
-      text: '更新时间：',
+      text: '最后更新',
       formatOptions: {
-        dateStyle: 'short',
+        dateStyle: 'full',
         timeStyle: 'medium'
       }
     },
