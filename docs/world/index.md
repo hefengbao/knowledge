@@ -121,6 +121,13 @@
 
 [🔗](https://baike.baidu.com/item/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%85%AC%E7%BA%A6%E7%BB%84%E7%BB%87/508108)
 
+## 四、其他
+
+### 欧佩克（OPEC）{#opec}
+
+[石油输出国组织_百度百科](https://baike.baidu.com/item/%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87/504903)
+
+现有成员国包括[阿尔及利亚](https://baike.baidu.com/item/%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A/269730?fromModule=lemma_inlink)、[刚果共和国](https://baike.baidu.com/item/%E5%88%9A%E6%9E%9C%E5%85%B1%E5%92%8C%E5%9B%BD/1814022?fromModule=lemma_inlink)、[赤道几内亚](https://baike.baidu.com/item/%E8%B5%A4%E9%81%93%E5%87%A0%E5%86%85%E4%BA%9A/423106?fromModule=lemma_inlink)、[加蓬](https://baike.baidu.com/item/%E5%8A%A0%E8%93%AC/422240?fromModule=lemma_inlink)、[伊朗](https://baike.baidu.com/item/%E4%BC%8A%E6%9C%97/156607?fromModule=lemma_inlink)、伊拉克、[科威特](https://baike.baidu.com/item/%E7%A7%91%E5%A8%81%E7%89%B9/130417?fromModule=lemma_inlink)、[利比亚](https://baike.baidu.com/item/%E5%88%A9%E6%AF%94%E4%BA%9A/378608?fromModule=lemma_inlink)、[尼日利亚](https://baike.baidu.com/item/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A/255105?fromModule=lemma_inlink)、[沙特阿拉伯](https://baike.baidu.com/item/%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF/201335?fromModule=lemma_inlink)、[阿拉伯联合酋长国](/asia/Arab-Emirates)、[委内瑞拉](https://baike.baidu.com/item/%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89/5451?fromModule=lemma_inlink)
 
 ### 金砖国家
 
